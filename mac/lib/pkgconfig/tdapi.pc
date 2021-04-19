@@ -1,0 +1,9 @@
+prefix=/Volumes/Data/SDK/TDLib/tdlib
+
+Name: tdapi
+Description: Telegram Library - API
+Version: 1.7.3
+
+CFlags: -I"${prefix}/include"
+Libs: -L"${prefix}/lib" -ltdapi
+Requires.private: tdutils
