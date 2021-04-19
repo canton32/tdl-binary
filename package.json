@@ -1,0 +1,19 @@
+{
+  "name": "tdl-binary",
+  "version": "1.0.0",
+  "description": "compiled telegram binary",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://canton32@github.com/canton32/tdl-binary.git"
+  },
+  "author": "Anton",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/canton32/tdl-binary/issues"
+  },
+  "homepage": "https://github.com/canton32/tdl-binary#readme"
+}
